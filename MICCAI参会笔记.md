@@ -127,7 +127,7 @@ ChestXRay8  和  PLCO
 
 双路的Unet变种（decoder端加了与FPN相似的结构）
 
-![1570781734669](imgs/Accurate Esophageal Gross Tumor Volume Segmentation in PETCT using Two-Stream Chained 3D Deep Network Fusion model.JPG)
+![1570781734669](https://github.com/RAY9874/MICCAI2019/blob/master/imgs/Accurate Esophageal Gross Tumor Volume Segmentation in PETCT using Two-Stream Chained 3D Deep Network Fusion model.JPG)
 
 
 ## 结果
