@@ -18,7 +18,7 @@
 
 模型结构： resnet50 back bone
 
-![1570781734669](imgs/Multi Scale Curriculum CNN for Context-Aware Breast MRI Malignancy Classiﬁcation_model.jpg)
+![157078173469](imgs/Multi Scale Curriculum CNN for Context-Aware Breast MRI Malignancy Classiﬁcation_model.jpg)
 
 数据增强：旋转z轴±15°，5折交叉验证
 
