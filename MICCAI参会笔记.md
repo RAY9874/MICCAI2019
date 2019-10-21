@@ -28,7 +28,7 @@
 
 
 
-![1570781734669](./imgs/Multi Scale Curriculum CNN for Context-Aware Breast MRI Malignancy Classiﬁcation_results.jpg)
+![1570781734669](.\imgs\Multi Scale Curriculum CNN for Context-Aware Breast MRI Malignancy Classiﬁcation_results.jpg)
 
 ## 心得
 
