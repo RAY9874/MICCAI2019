@@ -120,7 +120,7 @@ ChestXRay8  和  PLCO
 
 利用rtct和正电子发射断层成像（pet）两种成像方式（多模态），使gtv分割更加精确   (其他工作不使用pet图像)
 
-![1570781734669](./imgs/Accurate Esophageal Gross Tumor Volume Segmentation in PETCT using Two-Stream Chained 3D Deep Network Fusion model.JPG)
+![1570781734669](imgs/Accurate Esophageal Gross Tumor Volume Segmentation in PETCT using Two-Stream Chained 3D Deep Network Fusion model.JPG)
 
 
 ## 模型实验
