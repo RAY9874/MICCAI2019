@@ -118,8 +118,6 @@ ChestXRay8  和  PLCO
 
 ⭐
 
-实在是太水了。。。
-
 
 
 # Accurate Esophageal Gross Tumor Volume Segmentation in PET/CT using Two-Stream Chained 3D Deep Network Fusion
