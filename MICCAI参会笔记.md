@@ -18,8 +18,7 @@
 
 模型结构： resnet50 back bone
 
-![1570781469](./imgs/Multi%20Scale%20Curriculum%20CNN%20for%20Context-Aware%20Breast%20MRI%20Malignancy%20Classiﬁcation_model.jpg)
-
+![1570781469](https://github.com/RAY9874/MICCAI2019/blob/master/imgs/Multi%20Scale%20Curriculum%20CNN%20for%20Context-Aware%20Breast%20MRI%20Malignancy%20Classi%EF%AC%81cation_model.JPG)
 数据增强：旋转z轴±15°，5折交叉验证
 
 对比Naive ResNet 、Mask RCNN 和 Retina Unet
@@ -28,7 +27,7 @@
 
 
 
-![1570781734669](.\imgs\Multi Scale Curriculum CNN for Context-Aware Breast MRI Malignancy Classiﬁcation_results.jpg)
+![1570781734669](https://github.com/RAY9874/MICCAI2019/blob/master/imgs/Multi Scale Curriculum CNN for Context-Aware Breast MRI Malignancy Classiﬁcation_results.jpg)
 
 ## 心得
 
