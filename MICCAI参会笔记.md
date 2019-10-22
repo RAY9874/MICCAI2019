@@ -18,7 +18,7 @@
 
 模型结构： resnet50 back bone
 
-![157078173469](imgs/Multi%20Scale%20Curriculum%20CNN%20for%20Context-Aware%20Breast%20MRI%20Malignancy%20Classiﬁcation_model.jpg)
+![157078173469](https://github.com/RAY9874/MICCAI2019/imgs/Multi Scale Curriculum CNN for Context-Aware Breast MRI Malignancy Classiﬁcation_model.jpg)
 
 数据增强：旋转z轴±15°，5折交叉验证
 
@@ -120,7 +120,7 @@ ChestXRay8  和  PLCO
 
 利用rtct和正电子发射断层成像（pet）两种成像方式（多模态），使gtv分割更加精确   (其他工作不使用pet图像)
 
-![1570781734669](imgs/Accurate Esophageal Gross Tumor Volume Segmentation in PETCT using Two-Stream Chained 3D Deep Network Fusion model.JPG)
+![image](imgs/Accurate%20Esophageal%20Gross%20Tumor%20Volume%20Segmentation%20in%20PETCT%20using%20Two-Stream%20Chained%203D%20Deep%20Network%20Fusion%20model.JPG)
 
 
 ## 模型实验
